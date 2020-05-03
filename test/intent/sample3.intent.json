@@ -1,0 +1,7 @@
+{
+  "utterance": "read the South African news",
+  "intent_type": "ZANewsIntent",
+  "intent": {
+    "AustralianNewsKeyword": "ZAnews"
+  }
+}
